@@ -1,0 +1,28 @@
+{
+  "name": "rcon",
+  "version": "1.0.0",
+  "description": "A RCON implementation in Node.js",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilianomaccaferri/rcon.git"
+  },
+  "keywords": [
+    "RCON",
+    "Minecraft",
+    "Source",
+    "TCP"
+  ],
+  "author": "Emiliano Maccaferri",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/emilianomaccaferri/rcon/issues"
+  },
+  "homepage": "https://github.com/emilianomaccaferri/rcon#readme"
+}
